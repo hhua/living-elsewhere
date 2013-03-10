@@ -4,6 +4,7 @@
 
 * Lonely Planet - Beijing
 * TripAdvisor - Beijing <http://www.tripadvisor.com/Tourism-g294212-Beijing-Vacations.html>
+* beijinger.com <http://www.thebeijinger.com>
 
 **For Chinese reader**
 
@@ -28,5 +29,9 @@ Internet access is easy and cheap, while no access to Facebook and Twitter may b
 * 饭前饭后 Location: 东城区东四十条22号南新仓文化休闲街内(近东门仓胡同), Feature: Taiwan Food
 
 ##Places to Visit
+* 798 Art Zone 
+* Great wall on weekdays 
+* Sanlitun village for exotic food
+* Jingshan Park（景山公园）to oversee the forbidden city 
 
  
